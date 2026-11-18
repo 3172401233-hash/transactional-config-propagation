@@ -1,0 +1,12 @@
+{
+  "name": "transactional-config-propagation",
+  "version": "0.1.0",
+  "description": "Transactional config propagation coordinator: version barrier, atomic activation, rollback",
+  "type": "module",
+  "main": "src/coordinator.js",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node examples/demo.js"
+  },
+  "license": "MIT"
+}
